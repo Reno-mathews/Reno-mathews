@@ -1,6 +1,13 @@
 # 💫 About Me:
-🌱 I’m currently working on building a BibTeX File Manager web app using Flask, PostgreSQL, and JavaScript as part of my MSc dissertation.<br>🤝 I’m looking to collaborate on full-stack projects that combine front-end interactivity with strong database design.<br>🙌 I’m looking for help with optimizing JavaScript and React workflows as I grow into full-stack development.<br>📖 I’m currently learning React, Flask, and advanced JavaScript to expand my skills in web development.<br>💬 Ask me about machine learning projects, academic research tools, or portfolio building as a student developer.<br>⚡ Fun fact: I enjoy exploring different fields of computer science, from machine learning to web development.
+I’m a Junior Full-Stack Developer with hands-on experience building and deploying real-world web applications using React, Node.js, Express, PostgreSQL, and Flask.
 
+I’ve built full-stack projects end-to-end, including authenticated dashboards, analytics systems, CRUD applications, and an MSc dissertation project focused on managing bibliographic data.
+
+My work focuses on clean APIs, relational database design, authentication (JWT, RBAC), and user-focused dashboards.
+
+Currently building a Study Analytics Dashboard with PostgreSQL, charts, and feature-gated Pro upgrades.
+
+Actively applying for Junior Full-Stack / Software Developer roles.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/reno-abey-mathews-03b8b2349/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:renomathews10pro@gmail.com) 
